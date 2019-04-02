@@ -12,4 +12,8 @@ package temp.pkg2019.pkg1;
  */
 public class NewClass {
     private String name;
+    
+    public NewClass(){
+        
+    }
 }
